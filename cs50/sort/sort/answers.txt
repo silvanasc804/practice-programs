@@ -1,0 +1,51 @@
+About the times it takes
+Random50000
+real    0m5.996s
+user    0m5.017s
+sys     0m0.235s
+
+real    0m0.754s
+user    0m0.039s
+sys     0m0.215s
+
+real    0m2.469s
+user    0m1.822s
+sys     0m0.242s
+
+reversed50000
+real    0m3.424s
+user    0m2.043s
+sys     0m0.205s
+
+real    0m1.466s
+user    0m0.033s
+sys     0m0.211s
+
+real    0m6.656s
+user    0m4.362s
+sys     0m0.224s
+
+sorted50000
+real    0m0.002s
+user    0m0.001s
+sys     0m0.000s
+
+real    0m0.002s
+user    0m0.001s
+sys     0m0.000s
+
+real    0m0.001s
+user    0m0.001s
+sys     0m0.000s
+
+sort1 uses: Bubble sort
+
+How do you know?: Performs better if numbers are in certain order.
+
+sort2 uses: Merge sort
+
+How do you know?: It is the fastest one.
+
+sort3 uses:Selection sort
+
+How do you know?: Ideal time with sorted numbers
