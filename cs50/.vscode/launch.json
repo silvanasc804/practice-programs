@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/Proyectos/python_c/cs50/substitution",
-      "program": "e:/Proyectos/python_c/cs50/substitution/build/Debug/outDebug",
+      "cwd": "e:/Proyectos/python_c/cs50/04volume",
+      "program": "e:/Proyectos/python_c/cs50/04volume/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
